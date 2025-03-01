@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/ElianDev55/first-api-go/internal/domain"
+	"github.com/ElianDev55/micro-service-domain-go/domain"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )
